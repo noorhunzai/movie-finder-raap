@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/movie-finder-raap/static/css/main.f43f3bf3.css",
+    "main.js": "/movie-finder-raap/static/js/main.002eb49c.js",
+    "static/js/787.3924bcf7.chunk.js": "/movie-finder-raap/static/js/787.3924bcf7.chunk.js",
+    "index.html": "/movie-finder-raap/index.html",
+    "main.f43f3bf3.css.map": "/movie-finder-raap/static/css/main.f43f3bf3.css.map",
+    "main.002eb49c.js.map": "/movie-finder-raap/static/js/main.002eb49c.js.map",
+    "787.3924bcf7.chunk.js.map": "/movie-finder-raap/static/js/787.3924bcf7.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f43f3bf3.css",
+    "static/js/main.002eb49c.js"
+  ]
+}
